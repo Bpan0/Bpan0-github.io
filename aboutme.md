@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Why I'm Awesome
 ---
 
 My name is Bulyn Panjamapirom. I have the following qualities:
