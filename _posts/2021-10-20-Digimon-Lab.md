@@ -24,7 +24,7 @@ Digimon2_name = DigimonHP[Digimon2]
 Digimon3_name = DigimonHP[Digimon3] 
 ```
 
-Finding the average speed was pretty easy. All we had to do was take the total speed of all the digimon and divide it by the number of digimon present.
+Finding the average speed was pretty easy for me. All we had to do was take the total speed of all the digimon and divide it by the number of digimon present and we would get the average speed. 
 
 ```python
 for Digimon in data: 
@@ -32,7 +32,17 @@ for Digimon in data:
     DigimonCounter += 1 
 AverageSpeed = DigimonSum/DigimonCounter 
 ```
+The first thing I thought of when finding a function that can count the number of Digimon with a specific attribute was to create a count_digimon function. Like the previeous problem, I also found this pretty easy. The code that we did from a previeous assignment allowed me to make a starting counter and add a counter to the attribute. 
 
+```python
+def count_digimon(header, attribute): 
+    Digimoncounter = 0 
+    for Digimon in data: 
+        if Digimon[header] == attribute: 
+            Digimoncounter = Digimoncounter + 1 
+```
+
+The final question asks to make a team of 3 digimon with to 15 memory and over 300 attack in total. I got to the answer of Flamdramon, Wormmon, and Tsumemon. Out of the three questions, I thought this one was the most complicated for me. 
 
 
 1. What is the average speed (Spd) of all Digimon?
