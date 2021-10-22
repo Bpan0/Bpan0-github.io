@@ -7,10 +7,9 @@ thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [digimon]
 ---
-
 Collaborators: Tuhin Ghosh, Darson Chen, Justin Gurvitch, Elias Romero, Mr. Lee.
 
-What we did in this lab is answering a series of questions related lists of dictionaries in a csv file. 
+In this lab, we answered a series of questions related lists of dictionaries in a csv file. 
 
 The first problem I solved was finding the top 3 digimon with the most HP. In order to do this, I sorted the HP of all digimon from descending order. Then, I assigned the digimon name to the top 3 most HP inorder to solve the problem. 
 
