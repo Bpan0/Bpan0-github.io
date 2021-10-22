@@ -7,6 +7,9 @@ thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [digimon]
 ---
+
+##Digimon Lab
+
 Collaborators: Tuhin Ghosh, Darson Chen, Justin Gurvitch, Elias Romero, Mr. Lee.
 
 In this lab, we answered a series of questions related lists of dictionaries in a csv file. 
