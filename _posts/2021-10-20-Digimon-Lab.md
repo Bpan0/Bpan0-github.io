@@ -8,7 +8,7 @@ share-img: /assets/img/path.jpg
 tags: [digimon]
 ---
 
-##Digimon Lab
+Digimon Lab
 
 Collaborators: Tuhin Ghosh, Darson Chen, Justin Gurvitch, Elias Romero, Mr. Lee.
 
