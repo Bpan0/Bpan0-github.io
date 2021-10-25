@@ -44,14 +44,18 @@ def count_digimon(header, attribute):
             Digimoncounter = Digimoncounter + 1 
 ```
 
-The final question asks to make a team of 3 digimon with to 15 memory and over 300 attack in total. I got to the answer of Flamdramon, Wormmon, and Tsumemon. Out of the three questions, I thought this one was the most complicated for me. 
+The final question asks to make a team of 3 digimon with to 15 memory and over 300 attack in total. I got to the answer of Flamdramon, Wormmon, and Tsumemon. Out of the three questions, I thought this one was the most complicated for me. I started by preparing a list for the group then sorting it by comparing the digimon against eachother. I compared it so that it whould have at least 15 memory and greater than 300 attack. 
 
+```
 
-1. What is the average speed (Spd) of all Digimon?
-The average Speed of all Digimon is 120.4. 
+winner = [] 
+for Digimon1 in data: 
+    for Digimon2 in data:
+        for Digimon3 in data: 
+            if Digimon1 != Digimon2 and Digimon2 != Digimon3 and Digimon1 != Digimon3: 
+                if int(Digimon1["Memory"]) + int(Digimon2["Memory"]) + int(Digimon3["Memory"]) <= 15: 
+                    if int(Digimon1["Atk"]) + int(Digimon2["Atk"]) + int(Digimon3["Atk"]) >= 300: #and attack adds up to more than 300
+                        winner = [Digimon1, Digimon2, Digimon3] #the winning group
+                        
+```
 
-2. Write a function that can count the number of Digimon with a specific attribute. For example, count_digimon("Type", "Vaccine") would return 70.
-
-
-3. The Digimon on your team are restricted by the total amount of Memory that they need. If your team only has 15 Memory, name a team of up to 3 Digimon that has at least 300 attack (Atk) in total.
-Flamdramon, Wormmon, Tsumemon
