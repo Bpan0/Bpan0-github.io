@@ -11,6 +11,8 @@ tags: [digimon]
 ## Digimon Lab
 Collaborators: Tuhin Ghosh, Darson Chen, Justin Gurvitch, Elias Romero, Mr. Lee.
 
+![Digimon] (https://cdn.vox-cdn.com/thumbor/uKKr0W08KEfCKPs3BiNR-ROo-dY=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/21940788/Digimon_Adventure_2020_episode_6.jpg)
+
 In this lab, we answered a series of questions related lists of dictionaries in a csv file. 
 
 The first problem I solved was finding the top 3 digimon with the most HP. In order to do this, I sorted the HP of all digimon from descending order. Then, I assigned the digimon name to the top 3 most HP inorder to solve the problem. 
