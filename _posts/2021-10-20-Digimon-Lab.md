@@ -11,7 +11,7 @@ tags: [digimon]
 ## Digimon Lab
 Collaborators: Tuhin Ghosh, Darson Chen, Justin Gurvitch, Elias Romero, Mr. Lee.
 
-![Digimon] (https://cdn.vox-cdn.com/thumbor/uKKr0W08KEfCKPs3BiNR-ROo-dY=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/21940788/Digimon_Adventure_2020_episode_6.jpg)
+![Digimon](https://cdn.vox-cdn.com/thumbor/uKKr0W08KEfCKPs3BiNR-ROo-dY=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/21940788/Digimon_Adventure_2020_episode_6.jpg)
 
 In this lab, we answered a series of questions related lists of dictionaries in a csv file. 
 
