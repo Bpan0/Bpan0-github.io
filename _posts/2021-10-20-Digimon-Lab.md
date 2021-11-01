@@ -2,9 +2,9 @@
 layout: post
 title: Digimon Lab
 subtitle: By Bulyn Panjamapirom
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+cover-img: /assets/img/digimon-adventure-tri.jpeg
+thumbnail-img: /assets/img/Digimon_Adventure_EP_1_06.jpeg
+share-img: /assets/img/N3CAVECZTZBTBMROEA5PL7VY7A.webp
 tags: [digimon]
 ---
 
