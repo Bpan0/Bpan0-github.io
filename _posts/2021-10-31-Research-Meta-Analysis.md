@@ -9,7 +9,6 @@ tags: [ResearchMeta]
 ---
 
 ## Research Meta Analysis 
-
 ![ResearchMeta](https://s2.research.com/wp-content/uploads/2021/01/24110159/robot-1.jpg) 
 
 [Job Automation Risks in 2021] (How Robots Affect Employment](https://research.com/careers/job-automation-risks)
