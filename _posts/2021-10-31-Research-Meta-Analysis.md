@@ -3,8 +3,8 @@ layout: post
 title: Research Meta Analysis
 subtitle: By Bulyn Panjamapirom
 cover-img: /assets/img/original.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+thumbnail-img: /assets/img/images.jfif
+share-img: /assets/img/about-us-img.jpg
 tags: [ResearchMeta]
 ---
 
