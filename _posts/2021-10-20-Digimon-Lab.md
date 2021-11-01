@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lab 1: Digimon
+title: Digimon Lab
 subtitle: By Bulyn Panjamapirom
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
