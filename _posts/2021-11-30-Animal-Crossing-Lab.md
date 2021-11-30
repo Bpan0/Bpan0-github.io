@@ -11,3 +11,5 @@ tags: [AnimalCrossing]
 Collaborators: Darson Chen, Tuhin Ghosh, Elias Romero
 
 ![AnimalCrossing](https://assets.nintendo.com/image/upload/f_auto,q_auto/v1634304356/Nintendo%20Direct/2021/10-15-2021/aw7f2jh5/posters/ACNH-happy-home-paradise.jpg)
+
+In this Lab, I converted an API into a CSV file and then took information from that to answer what different variations there are and the different colors. 
