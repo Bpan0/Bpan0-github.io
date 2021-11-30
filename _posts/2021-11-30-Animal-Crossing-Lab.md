@@ -2,9 +2,9 @@
 layout: post
 title: Animal Crossing Lab
 subtitle: By Bulyn Panjamapirom
-cover-img: /assets/img/digimon-adventure-tri.jpeg
-thumbnail-img: /assets/img/Digimon_Adventure_EP_1_06.jpeg
-share-img: /assets/img/N3CAVECZTZBTBMROEA5PL7VY7A.webp
+cover-img: /assets/img/ACNH-happy-home-paradise.jpeg
+thumbnail-img: /assets/img/A49SHvJd5XCM7qBAqfRDYn-1200-80.jpeg
+share-img: /assets/img/1280x720.jpeg
 tags: [AnimalCrossing]
 ---
 ## Animal Crossing Lab
