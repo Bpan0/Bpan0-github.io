@@ -2,7 +2,7 @@
 layout: post
 title: Animal Crossing Lab
 subtitle: By Bulyn Panjamapirom
-cover-img: /assets/img/ACNH-happy-home-paradise.jpeg
+cover-img: /assets/img/Animal_Crossing_New_Horizons_Isabelle.jpeg
 thumbnail-img: /assets/img/A49SHvJd5XCM7qBAqfRDYn-1200-80.jpeg
 share-img: /assets/img/1280x720.jpeg
 tags: [AnimalCrossing]
