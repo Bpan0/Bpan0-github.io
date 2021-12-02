@@ -45,8 +45,8 @@ class Sock:
         return f"{self.name},{self.variation},{self.diy},{self.buy},{self.sell},{self.color1},{self.color2},{self.size},{self.miles_price},{self.source},{self.source_notes},{self.seasonal_availability},{self.mannequin_piece},{self.version},{self.style},{self.label_themes},{self.villager_equippable},{self.catalog},{self.filename},{self.internalid},{self.uniqueentryid}"
 ```
 Then I made a string method as shown above and defined a csv to sock which converts a single line of sock into a sock object and then I split single line of csv into individual cells as well as making associative dictionary lines where names are keys to columns as shown below. 
-
-ef csvtosock(csvline): 
+```python
+def csvtosock(csvline): 
     parts = csvline.split(",") 
     if len(parts) <= 1:
         return None
@@ -72,7 +72,7 @@ ef csvtosock(csvline):
     internalid = parts[19]
     uniqueentryid = parts[20]
     return Sock(name,variation,diy,buy,sell,color1,color2,size,miles_price,source,source_notes,seasonal_availability,mannequin_piece,version,style,label_themes,villager_equippable,catalog,filename,internalid,uniqueentryid)
-```python
+
 def dicttosock(csvdict): 
     name = csvdict["Name"]
     variation = csvdict["Variation"]
