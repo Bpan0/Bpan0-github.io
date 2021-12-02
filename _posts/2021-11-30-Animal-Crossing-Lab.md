@@ -191,17 +191,23 @@ vivid tights
                 all have 8 variations to them
        
 As for how many socks for each color there are, the answers that I found are: 
-Pink 41
-Red 39
-Green 50
-Light blue 33
-Orange 27
-Purple 37
-Blue 47
-Yellow 33
-Beige 15
-White 85
-Black 59
-Brown 11
-Gray 31
-Colorful 14
+
+| Color |  number |
+| :------ |:--- | 
+|Pink | 41 |
+|Red  |39 |
+|Green | 50 |
+|Light blue  |33 |
+|Orange |27 |
+|Purple| 37 |
+|Blue |47 |
+|Yellow| 33 |
+|Beige |15 |
+|White |85 |
+|Black |59 |
+|Brown |11 |
+|Gray |31 |
+|Colorful |14 |
+
+
+
