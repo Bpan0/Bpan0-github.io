@@ -170,25 +170,27 @@ for color in colors:
 ```
 
 The answers that I got for the different variations are 
-argyle crew socks 
-color-blocked socks
-frilly knee-high socks
-holey tights
-kiddie socks
-mixed-tweed socks
-no-show socks
-semi-opaque socks
-semi-opaque tights
-sequin leggings
-simple-accent socks
-striped socks
-striped tights
-tube socks
-ultra no-show socks
-vivid leggings
-vivid socks
-vivid tights
-                all have 8 variations to them
+| sock name | color variation number |
+| :-------- | :-------- |
+|argyle crew socks | 8 |
+|color-blocked socks | 8 |
+|frilly knee-high socks | 8 |
+|holey tights | 8 |
+|kiddie socks | 8 |
+|mixed-tweed socks | 8 |
+|no-show socks | 8 |
+|semi-opaque socks | 8 |
+|semi-opaque tights | 8 |
+|sequin leggings | 8 |
+|simple-accent socks | 8 |
+|striped socks | 8 |
+|striped tights | 8 |
+|tube socks | 8 |
+|ultra no-show socks | 8 |
+|vivid leggings | 8 |
+|vivid socks | 8 |
+|vivid tights | 8 |
+              
        
 As for how many socks for each color there are, the answers that I found are: 
 
