@@ -170,7 +170,8 @@ for color in colors:
 ```
 
 The answers that I got for the different variations are 
-|  name |  number |
+
+|  Sock name |  Color variation number |
 | :-------- | :--- |
 |argyle crew socks | 8 |
 |color-blocked socks | 8 |
